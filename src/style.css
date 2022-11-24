@@ -1,0 +1,9 @@
+img.myImage {
+    width: 700px;
+    height: 600px;
+}
+.mycarousel{
+    width: 700px !important;
+    margin-top:10%;
+    margin-left: 10%;
+}
